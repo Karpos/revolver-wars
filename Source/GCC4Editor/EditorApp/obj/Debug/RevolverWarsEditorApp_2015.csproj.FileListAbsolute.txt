@@ -1,0 +1,8 @@
+D:\finki\Progrmairanje_Video_Igri_edit_name\gamecode4-vs2015\Source\Lib\Win32Debug\EditorApp.exe.config
+D:\finki\Progrmairanje_Video_Igri_edit_name\gamecode4-vs2015\Source\Lib\Win32Debug\EditorApp.exe
+D:\finki\Progrmairanje_Video_Igri_edit_name\gamecode4-vs2015\Source\Lib\Win32Debug\EditorApp.pdb
+D:\finki\Progrmairanje_Video_Igri_edit_name\gamecode4-vs2015\Source\GCC4Editor\EditorApp\obj\Debug\EditorApp.EditorForm.resources
+D:\finki\Progrmairanje_Video_Igri_edit_name\gamecode4-vs2015\Source\GCC4Editor\EditorApp\obj\Debug\EditorApp.Properties.Resources.resources
+D:\finki\Progrmairanje_Video_Igri_edit_name\gamecode4-vs2015\Source\GCC4Editor\EditorApp\obj\Debug\RevolverWarsEditorApp_2015.csproj.GenerateResource.Cache
+D:\finki\Progrmairanje_Video_Igri_edit_name\gamecode4-vs2015\Source\GCC4Editor\EditorApp\obj\Debug\EditorApp.exe
+D:\finki\Progrmairanje_Video_Igri_edit_name\gamecode4-vs2015\Source\GCC4Editor\EditorApp\obj\Debug\EditorApp.pdb

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="targetver.h" />
+    <ClInclude Include="..\RevolverController.h">
+      <Filter>TeapotWars</Filter>
+    </ClInclude>
+    <ClInclude Include="..\RevolverEvents.h">
+      <Filter>TeapotWars</Filter>
+    </ClInclude>
+    <ClInclude Include="RevolverResources.h">
+      <Filter>Application</Filter>
+    </ClInclude>
+    <ClInclude Include="RevolverWars.h">
+      <Filter>Application</Filter>
+    </ClInclude>
+    <ClInclude Include="..\RevolverNetwork.h">
+      <Filter>TeapotWars</Filter>
+    </ClInclude>
+    <ClInclude Include="RevolverWarsStd.h">
+      <Filter>Application</Filter>
+    </ClInclude>
+    <ClInclude Include="..\RevolverWarsView.h">
+      <Filter>TeapotWars</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="TeapotWars">
+      <UniqueIdentifier>{09e969fd-62b9-4ebd-b2cc-a7d4e06dc2a0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Application">
+      <UniqueIdentifier>{07571a94-ffad-4192-84ee-6e22a66744a0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\RevolverController.cpp">
+      <Filter>TeapotWars</Filter>
+    </ClCompile>
+    <ClCompile Include="..\RevolverEvents.cpp">
+      <Filter>TeapotWars</Filter>
+    </ClCompile>
+    <ClCompile Include="..\RevolverWars.cpp">
+      <Filter>TeapotWars</Filter>
+    </ClCompile>
+    <ClCompile Include="RevolverWarsStd.cpp">
+      <Filter>Application</Filter>
+    </ClCompile>
+    <ClCompile Include="..\RevolverWarsView.cpp">
+      <Filter>TeapotWars</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="RevolverWars.rc">
+      <Filter>Application</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
